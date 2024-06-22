@@ -101,7 +101,7 @@ section{
 	border-radius: 10px;
 }
 .cards__item:nth-of-type(1){
-	background-image: url(../assets/img/project-1.jpg);
+	background-image: url(/assets/img/project-1.jpg);
 	background-size: cover;
 	background-position: center;
 }
